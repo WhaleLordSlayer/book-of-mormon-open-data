@@ -1,0 +1,8 @@
+{
+  "project": "Book of Mormon Open Data",
+  "status": "pre-release",
+  "datasetVersion": null,
+  "schemaVersion": null,
+  "stableRelease": false,
+  "notes": "Initial public repository scaffold. No validated dataset release has been published yet."
+}
