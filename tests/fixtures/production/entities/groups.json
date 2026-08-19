@@ -1,0 +1,22 @@
+[
+  {
+    "id": "group-nephites",
+    "display_name": "Nephites",
+    "status": "canonical"
+  },
+  {
+    "id": "group-lamanites",
+    "display_name": "Lamanites",
+    "status": "canonical"
+  },
+  {
+    "id": "group-stripling-warriors",
+    "display_name": "stripling warriors",
+    "status": "canonical"
+  },
+  {
+    "id": "group-church-institution",
+    "display_name": "church of Christ",
+    "status": "canonical"
+  }
+]

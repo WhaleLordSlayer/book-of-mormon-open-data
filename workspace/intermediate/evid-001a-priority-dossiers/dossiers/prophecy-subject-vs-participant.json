@@ -1,0 +1,77 @@
+{
+  "005c_proposals": [],
+  "005d_findings_advisory": [],
+  "affected_release_goals": [
+    "explorer-relationship-semantics",
+    "prophecy-edges"
+  ],
+  "annotations": [],
+  "canonical_display_names": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "canonical_entity_ids": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "chronology_facts": [],
+  "contradictions_and_tensions": [
+    {
+      "description": "Requested scripture ranges not available in frozen corpus loader.",
+      "tension_id": "scripture-corpus-gap"
+    }
+  ],
+  "current_canonical_state": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "current_relationships": [],
+  "dossier_id": "prophecy-subject-vs-participant",
+  "earlier_forensic_findings": [],
+  "evidence_resolution": {
+    "resolved": 0,
+    "total_references": 3,
+    "unresolved": 3,
+    "unresolved_by_type": {
+      "verse_locator": 3
+    }
+  },
+  "exact_mentions": [],
+  "generation_notes": "",
+  "group_occurrences": [],
+  "pm_questions": [
+    "Which 005C candidates confuse prophetic subject with present participant?",
+    "Which relationships should be typed as prophecy-about vs participation-in?"
+  ],
+  "reynolds_evidence": [],
+  "scripture_evidence": [],
+  "scripture_locators_requested": [
+    "1 Nephi 22:1-6",
+    "2 Nephi 25:17-19",
+    "3 Nephi 21:1-7"
+  ],
+  "title": "Prophecy subject vs present participant",
+  "unresolved_evidence_references": [
+    {
+      "reason": "not_in_corpus",
+      "reference": "1 Nephi 22:1-6",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "2 Nephi 25:17-19",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "3 Nephi 21:1-7",
+      "type": "verse_locator"
+    }
+  ]
+}

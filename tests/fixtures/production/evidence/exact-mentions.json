@@ -1,0 +1,16 @@
+[
+  {
+    "entity_id": "person-mormon-historical",
+    "locator": "Mormon 1:1",
+    "surface_text": "Mormon",
+    "evidence_id": "ev-mormon-001",
+    "mention_kind": "historical_actor"
+  },
+  {
+    "entity_id": "person-mormon-historical",
+    "locator": "Words of Mormon 1:1",
+    "surface_text": "Mormon",
+    "evidence_id": "ev-mormon-002",
+    "mention_kind": "narrator"
+  }
+]

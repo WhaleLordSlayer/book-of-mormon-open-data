@@ -1,0 +1,7 @@
+[
+  {
+    "finding_id": "005d-finding-narrator-001",
+    "summary": "Mormon narrator contamination risk in speaker attribution",
+    "entity_refs": ["person-mormon-historical"]
+  }
+]

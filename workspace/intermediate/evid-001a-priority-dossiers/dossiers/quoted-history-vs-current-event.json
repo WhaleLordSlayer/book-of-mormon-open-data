@@ -1,0 +1,77 @@
+{
+  "005c_proposals": [],
+  "005d_findings_advisory": [],
+  "affected_release_goals": [
+    "explorer-event-boundaries",
+    "narration-context"
+  ],
+  "annotations": [],
+  "canonical_display_names": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "canonical_entity_ids": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "chronology_facts": [],
+  "contradictions_and_tensions": [
+    {
+      "description": "Requested scripture ranges not available in frozen corpus loader.",
+      "tension_id": "scripture-corpus-gap"
+    }
+  ],
+  "current_canonical_state": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "current_relationships": [],
+  "dossier_id": "quoted-history-vs-current-event",
+  "earlier_forensic_findings": [],
+  "evidence_resolution": {
+    "resolved": 0,
+    "total_references": 3,
+    "unresolved": 3,
+    "unresolved_by_type": {
+      "verse_locator": 3
+    }
+  },
+  "exact_mentions": [],
+  "generation_notes": "",
+  "group_occurrences": [],
+  "pm_questions": [
+    "Which 005C Event edges attach to recounted history rather than current narrative action?",
+    "What contiguous passage context is required to preserve retrospective vs present action?"
+  ],
+  "reynolds_evidence": [],
+  "scripture_evidence": [],
+  "scripture_locators_requested": [
+    "Alma 36:1-30",
+    "Helaman 7:7-9",
+    "Mosiah 11:20-25"
+  ],
+  "title": "Quoted/recounted history vs current Event",
+  "unresolved_evidence_references": [
+    {
+      "reason": "not_in_corpus",
+      "reference": "Alma 36:1-30",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Helaman 7:7-9",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Mosiah 11:20-25",
+      "type": "verse_locator"
+    }
+  ]
+}

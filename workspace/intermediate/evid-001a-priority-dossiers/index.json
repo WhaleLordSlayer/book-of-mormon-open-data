@@ -1,0 +1,332 @@
+{
+  "005c_proposals_represented": 0,
+  "base_data_availability": {
+    "005c_proposals_loaded": false,
+    "005d_findings_loaded": false,
+    "groups_registry_loaded": false,
+    "note": "Generation run against configured project root; unresolved counts reflect missing cultivate-data-forge production sources when unavailable.",
+    "people_registry_loaded": false,
+    "reynolds_corpus_loaded": false,
+    "scripture_corpus_loaded": false
+  },
+  "dossiers": [
+    {
+      "dossier_id": "mormon-narrator-vs-historical-actor",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/mormon-narrator-vs-historical-actor.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/mormon-narrator-vs-historical-actor.md",
+      "title": "Mormon \u2014 narrator/editor vs historical actor",
+      "unresolved_count": 6
+    },
+    {
+      "dossier_id": "mormon-vs-moroni",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/mormon-vs-moroni.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/mormon-vs-moroni.md",
+      "title": "Mormon vs Moroni \u2014 contamination/confusion risk",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "nephites-broad-label",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/nephites-broad-label.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/nephites-broad-label.md",
+      "title": "Nephites \u2014 broad civilizational label",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "lamanites-broad-label",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/lamanites-broad-label.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/lamanites-broad-label.md",
+      "title": "Lamanites \u2014 broad civilizational label",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "generic-nephite-armies",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/generic-nephite-armies.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/generic-nephite-armies.md",
+      "title": "Generic Nephite armies/forces",
+      "unresolved_count": 4
+    },
+    {
+      "dossier_id": "generic-lamanite-armies",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/generic-lamanite-armies.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/generic-lamanite-armies.md",
+      "title": "Generic Lamanite armies/forces",
+      "unresolved_count": 4
+    },
+    {
+      "dossier_id": "people-of-ammon-anti-nephi-lehi",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/people-of-ammon-anti-nephi-lehi.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/people-of-ammon-anti-nephi-lehi.md",
+      "title": "People of Ammon / Anti-Nephi-Lehi \u2014 continuity and renaming",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "stripling-warriors-count",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/stripling-warriors-count.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/stripling-warriors-count.md",
+      "title": "Stripling warriors \u2014 2,000 \u2192 2,060",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "antipus-army-vs-stripling-warriors",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/antipus-army-vs-stripling-warriors.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/antipus-army-vs-stripling-warriors.md",
+      "title": "Antipus's army vs stripling warriors",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "king-men-vs-amalickiahites",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/king-men-vs-amalickiahites.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/king-men-vs-amalickiahites.md",
+      "title": "King-men vs Amalickiahites",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "church-institution-vs-congregations",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/church-institution-vs-congregations.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/church-institution-vs-congregations.md",
+      "title": "Church institution vs local congregations",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "house-of-israel-joseph-conceptual",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/house-of-israel-joseph-conceptual.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/house-of-israel-joseph-conceptual.md",
+      "title": "House of Israel / house of Joseph conceptual Groups",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "akish-oath-vs-army",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/akish-oath-vs-army.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/akish-oath-vs-army.md",
+      "title": "Akish oath/secret group vs army",
+      "unresolved_count": 6
+    },
+    {
+      "dossier_id": "prophecy-subject-vs-participant",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/prophecy-subject-vs-participant.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/prophecy-subject-vs-participant.md",
+      "title": "Prophecy subject vs present participant",
+      "unresolved_count": 3
+    },
+    {
+      "dossier_id": "quoted-history-vs-current-event",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/quoted-history-vs-current-event.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/quoted-history-vs-current-event.md",
+      "title": "Quoted/recounted history vs current Event",
+      "unresolved_count": 3
+    },
+    {
+      "dossier_id": "cumorah-preparation-vs-battle",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/cumorah-preparation-vs-battle.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/cumorah-preparation-vs-battle.md",
+      "title": "Cumorah preparation/gathering vs final battle",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "coriantumr-shiz-terminal",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/coriantumr-shiz-terminal.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/coriantumr-shiz-terminal.md",
+      "title": "Coriantumr/Shiz terminal conflict",
+      "unresolved_count": 3
+    },
+    {
+      "dossier_id": "event-place-high-impact",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/event-place-high-impact.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/event-place-high-impact.md",
+      "title": "Event\u2192Place high-impact proposal clusters",
+      "unresolved_count": 1
+    }
+  ],
+  "dossiers_completed": 18,
+  "entities_covered": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "missing_evidence_dossiers": [
+    {
+      "dossier_id": "akish-oath-vs-army",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/akish-oath-vs-army.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/akish-oath-vs-army.md",
+      "title": "Akish oath/secret group vs army",
+      "unresolved_count": 6
+    },
+    {
+      "dossier_id": "antipus-army-vs-stripling-warriors",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/antipus-army-vs-stripling-warriors.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/antipus-army-vs-stripling-warriors.md",
+      "title": "Antipus's army vs stripling warriors",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "church-institution-vs-congregations",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/church-institution-vs-congregations.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/church-institution-vs-congregations.md",
+      "title": "Church institution vs local congregations",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "coriantumr-shiz-terminal",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/coriantumr-shiz-terminal.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/coriantumr-shiz-terminal.md",
+      "title": "Coriantumr/Shiz terminal conflict",
+      "unresolved_count": 3
+    },
+    {
+      "dossier_id": "cumorah-preparation-vs-battle",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/cumorah-preparation-vs-battle.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/cumorah-preparation-vs-battle.md",
+      "title": "Cumorah preparation/gathering vs final battle",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "event-place-high-impact",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/event-place-high-impact.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/event-place-high-impact.md",
+      "title": "Event\u2192Place high-impact proposal clusters",
+      "unresolved_count": 1
+    },
+    {
+      "dossier_id": "generic-lamanite-armies",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/generic-lamanite-armies.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/generic-lamanite-armies.md",
+      "title": "Generic Lamanite armies/forces",
+      "unresolved_count": 4
+    },
+    {
+      "dossier_id": "generic-nephite-armies",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/generic-nephite-armies.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/generic-nephite-armies.md",
+      "title": "Generic Nephite armies/forces",
+      "unresolved_count": 4
+    },
+    {
+      "dossier_id": "house-of-israel-joseph-conceptual",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/house-of-israel-joseph-conceptual.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/house-of-israel-joseph-conceptual.md",
+      "title": "House of Israel / house of Joseph conceptual Groups",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "king-men-vs-amalickiahites",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/king-men-vs-amalickiahites.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/king-men-vs-amalickiahites.md",
+      "title": "King-men vs Amalickiahites",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "lamanites-broad-label",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/lamanites-broad-label.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/lamanites-broad-label.md",
+      "title": "Lamanites \u2014 broad civilizational label",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "mormon-narrator-vs-historical-actor",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/mormon-narrator-vs-historical-actor.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/mormon-narrator-vs-historical-actor.md",
+      "title": "Mormon \u2014 narrator/editor vs historical actor",
+      "unresolved_count": 6
+    },
+    {
+      "dossier_id": "mormon-vs-moroni",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/mormon-vs-moroni.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/mormon-vs-moroni.md",
+      "title": "Mormon vs Moroni \u2014 contamination/confusion risk",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "nephites-broad-label",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/nephites-broad-label.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/nephites-broad-label.md",
+      "title": "Nephites \u2014 broad civilizational label",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "people-of-ammon-anti-nephi-lehi",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/people-of-ammon-anti-nephi-lehi.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/people-of-ammon-anti-nephi-lehi.md",
+      "title": "People of Ammon / Anti-Nephi-Lehi \u2014 continuity and renaming",
+      "unresolved_count": 5
+    },
+    {
+      "dossier_id": "prophecy-subject-vs-participant",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/prophecy-subject-vs-participant.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/prophecy-subject-vs-participant.md",
+      "title": "Prophecy subject vs present participant",
+      "unresolved_count": 3
+    },
+    {
+      "dossier_id": "quoted-history-vs-current-event",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/quoted-history-vs-current-event.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/quoted-history-vs-current-event.md",
+      "title": "Quoted/recounted history vs current Event",
+      "unresolved_count": 3
+    },
+    {
+      "dossier_id": "stripling-warriors-count",
+      "evidence_items": 0,
+      "json_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/stripling-warriors-count.json",
+      "md_path": "workspace/intermediate/evid-001a-priority-dossiers/dossiers/stripling-warriors-count.md",
+      "title": "Stripling warriors \u2014 2,000 \u2192 2,060",
+      "unresolved_count": 5
+    }
+  ],
+  "reynolds_evidence_count": 0,
+  "scripture_evidence_count": 0,
+  "source_load_errors": {
+    "005c": "file_not_found:/workspace/workspace/intermediate/005c-relationship-candidates/proposals.json",
+    "005d": "file_not_found:/workspace/workspace/intermediate/005d-semantic-audit/findings.json",
+    "annotations": "file_not_found:/workspace/production/evidence/annotations.json",
+    "chronology": "file_not_found:/workspace/workspace/intermediate/chronology/artifacts.json",
+    "events": "file_not_found:/workspace/production/entities/events.json",
+    "forensic_reports": "dir_not_found:/workspace/workspace/reports/forensic",
+    "group_occurrences": "file_not_found:/workspace/production/evidence/group-occurrences.json",
+    "groups": "file_not_found:/workspace/production/entities/groups.json",
+    "mentions": "file_not_found:/workspace/production/evidence/exact-mentions.json",
+    "people": "file_not_found:/workspace/production/entities/people.json",
+    "places": "file_not_found:/workspace/production/entities/places.json",
+    "relationships": "file_not_found:/workspace/production/relationships/canonical.json",
+    "reynolds": "file_not_found:/workspace/production/sources/reynolds-corpus.json",
+    "scripture": "file_not_found:/workspace/production/sources/scripture-corpus.json"
+  },
+  "strong_evidence_coverage": [],
+  "task_id": "EVID-001A",
+  "unresolved_references_total": 80
+}

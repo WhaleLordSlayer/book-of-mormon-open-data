@@ -1,0 +1,20 @@
+[
+  {
+    "id": "person-mormon-historical",
+    "display_name": "Mormon",
+    "canonical_name": "Mormon",
+    "status": "canonical",
+    "notes": "Historical Nephite leader"
+  },
+  {
+    "id": "person-moroni-son",
+    "display_name": "Moroni",
+    "canonical_name": "Moroni",
+    "status": "canonical"
+  },
+  {
+    "id": "person-antipus",
+    "display_name": "Antipus",
+    "status": "canonical"
+  }
+]

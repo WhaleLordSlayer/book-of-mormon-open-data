@@ -1,0 +1,83 @@
+{
+  "005c_proposals": [],
+  "005d_findings_advisory": [],
+  "affected_release_goals": [
+    "explorer-group-continuity",
+    "military-forces"
+  ],
+  "annotations": [],
+  "canonical_display_names": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "canonical_entity_ids": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "chronology_facts": [],
+  "contradictions_and_tensions": [
+    {
+      "description": "Requested scripture ranges not available in frozen corpus loader.",
+      "tension_id": "scripture-corpus-gap"
+    }
+  ],
+  "current_canonical_state": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "current_relationships": [],
+  "dossier_id": "generic-nephite-armies",
+  "earlier_forensic_findings": [],
+  "evidence_resolution": {
+    "resolved": 0,
+    "total_references": 4,
+    "unresolved": 4,
+    "unresolved_by_type": {
+      "groups_registry": 1,
+      "reynolds_corpus": 1,
+      "verse_locator": 2
+    }
+  },
+  "exact_mentions": [],
+  "generation_notes": "Do not declare false collapse.",
+  "group_occurrences": [],
+  "pm_questions": [
+    "Which generic Nephite army labels denote the same force within one episode?",
+    "Which widely separated army mentions must remain distinct Groups?"
+  ],
+  "reynolds_evidence": [],
+  "scripture_evidence": [],
+  "scripture_locators_requested": [
+    "Alma 43:17-23",
+    "Alma 62:40-43"
+  ],
+  "title": "Generic Nephite armies/forces",
+  "unresolved_evidence_references": [
+    {
+      "reason": "registry_unavailable",
+      "reference": "/workspace/production/entities/groups.json",
+      "type": "groups_registry"
+    },
+    {
+      "reason": "no_matching_passages_or_corpus_missing",
+      "reference": "Nephite army|armies of the Nephites|Nephite host|Nephite force|army of Moroni",
+      "type": "reynolds_corpus"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Alma 43:17-23",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Alma 62:40-43",
+      "type": "verse_locator"
+    }
+  ]
+}
