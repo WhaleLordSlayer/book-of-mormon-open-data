@@ -1,0 +1,57 @@
+{
+  "005c_proposals": [],
+  "005d_findings_advisory": [],
+  "affected_release_goals": [
+    "explorer-event-place",
+    "005c-review"
+  ],
+  "annotations": [],
+  "canonical_display_names": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "canonical_entity_ids": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "chronology_facts": [],
+  "contradictions_and_tensions": [],
+  "current_canonical_state": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "current_relationships": [],
+  "dossier_id": "event-place-high-impact",
+  "earlier_forensic_findings": [],
+  "event_place_clusters": [],
+  "evidence_resolution": {
+    "resolved": 0,
+    "total_references": 0,
+    "unresolved": 0,
+    "unresolved_by_type": {}
+  },
+  "exact_mentions": [],
+  "generation_notes": "Top 10 clusters selected deterministically by proposal count.",
+  "group_occurrences": [],
+  "pm_questions": [
+    "For each high-impact cluster, is the Place attested inside direct Event evidence?",
+    "Which Event\u2192Place proposals rely on Reynolds only vs scripture-primary evidence?"
+  ],
+  "reynolds_evidence": [],
+  "scripture_evidence": [],
+  "scripture_locators_requested": [],
+  "title": "Event\u2192Place high-impact proposal clusters",
+  "unresolved_evidence_references": [
+    {
+      "reason": "no_event_place_clusters_available",
+      "reference": "/workspace/workspace/intermediate/005c-relationship-candidates/proposals.json",
+      "type": "005c_proposals"
+    }
+  ]
+}

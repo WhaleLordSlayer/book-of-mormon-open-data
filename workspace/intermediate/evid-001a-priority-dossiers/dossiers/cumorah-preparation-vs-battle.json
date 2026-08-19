@@ -1,0 +1,89 @@
+{
+  "005c_proposals": [],
+  "005d_findings_advisory": [],
+  "affected_release_goals": [
+    "explorer-event-boundaries",
+    "cumorah-episode"
+  ],
+  "annotations": [],
+  "canonical_display_names": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "canonical_entity_ids": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "chronology_facts": [],
+  "contradictions_and_tensions": [
+    {
+      "description": "Requested scripture ranges not available in frozen corpus loader.",
+      "tension_id": "scripture-corpus-gap"
+    }
+  ],
+  "current_canonical_state": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "current_relationships": [],
+  "dossier_id": "cumorah-preparation-vs-battle",
+  "earlier_forensic_findings": [],
+  "evidence_resolution": {
+    "resolved": 0,
+    "total_references": 5,
+    "unresolved": 5,
+    "unresolved_by_type": {
+      "groups_registry": 1,
+      "reynolds_corpus": 1,
+      "verse_locator": 3
+    }
+  },
+  "exact_mentions": [],
+  "generation_notes": "",
+  "group_occurrences": [],
+  "pm_questions": [
+    "Should Cumorah gathering/preparation and final battle be one Event or distinct Events?",
+    "Which participant Groups change between preparation and battle phases?"
+  ],
+  "reynolds_evidence": [],
+  "scripture_evidence": [],
+  "scripture_locators_requested": [
+    "Mormon 6:1-6",
+    "Mormon 6:7-15",
+    "Mormon 8:1-3"
+  ],
+  "title": "Cumorah preparation/gathering vs final battle",
+  "unresolved_evidence_references": [
+    {
+      "reason": "registry_unavailable",
+      "reference": "/workspace/production/entities/groups.json",
+      "type": "groups_registry"
+    },
+    {
+      "reason": "no_matching_passages_or_corpus_missing",
+      "reference": "Nephite|Lamanite",
+      "type": "reynolds_corpus"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Mormon 6:1-6",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Mormon 6:7-15",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Mormon 8:1-3",
+      "type": "verse_locator"
+    }
+  ]
+}

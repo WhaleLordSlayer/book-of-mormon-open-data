@@ -1,0 +1,89 @@
+{
+  "005c_proposals": [],
+  "005d_findings_advisory": [],
+  "affected_release_goals": [
+    "explorer-group-identity",
+    "membership-count"
+  ],
+  "annotations": [],
+  "canonical_display_names": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "canonical_entity_ids": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "chronology_facts": [],
+  "contradictions_and_tensions": [
+    {
+      "description": "Requested scripture ranges not available in frozen corpus loader.",
+      "tension_id": "scripture-corpus-gap"
+    }
+  ],
+  "current_canonical_state": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "current_relationships": [],
+  "dossier_id": "stripling-warriors-count",
+  "earlier_forensic_findings": [],
+  "evidence_resolution": {
+    "resolved": 0,
+    "total_references": 5,
+    "unresolved": 5,
+    "unresolved_by_type": {
+      "groups_registry": 1,
+      "reynolds_corpus": 1,
+      "verse_locator": 3
+    }
+  },
+  "exact_mentions": [],
+  "generation_notes": "",
+  "group_occurrences": [],
+  "pm_questions": [
+    "Does the increase from 2,000 to 2,060 require a new Group entity?",
+    "Is the count change within-episode reinforcement or a distinct formation?"
+  ],
+  "reynolds_evidence": [],
+  "scripture_evidence": [],
+  "scripture_locators_requested": [
+    "Alma 53:18-22",
+    "Alma 56:10-12",
+    "Alma 57:25-26"
+  ],
+  "title": "Stripling warriors \u2014 2,000 \u2192 2,060",
+  "unresolved_evidence_references": [
+    {
+      "reason": "registry_unavailable",
+      "reference": "/workspace/production/entities/groups.json",
+      "type": "groups_registry"
+    },
+    {
+      "reason": "no_matching_passages_or_corpus_missing",
+      "reference": "stripling|two thousand|two thousand and sixty|2060|2000",
+      "type": "reynolds_corpus"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Alma 53:18-22",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Alma 56:10-12",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Alma 57:25-26",
+      "type": "verse_locator"
+    }
+  ]
+}

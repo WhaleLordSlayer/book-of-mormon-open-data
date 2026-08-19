@@ -1,0 +1,104 @@
+{
+  "005c_proposals": [],
+  "005d_findings_advisory": [],
+  "affected_release_goals": [
+    "explorer-person-identity",
+    "speaker-attribution"
+  ],
+  "annotations": [],
+  "canonical_display_names": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "canonical_entity_ids": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "chronology_facts": [],
+  "contradictions_and_tensions": [
+    {
+      "description": "Requested scripture ranges not available in frozen corpus loader.",
+      "tension_id": "scripture-corpus-gap"
+    }
+  ],
+  "current_canonical_state": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "current_relationships": [],
+  "dossier_id": "mormon-narrator-vs-historical-actor",
+  "earlier_forensic_findings": [],
+  "evidence_resolution": {
+    "resolved": 0,
+    "total_references": 6,
+    "unresolved": 6,
+    "unresolved_by_type": {
+      "people_registry": 1,
+      "reynolds_corpus": 1,
+      "verse_locator": 4
+    }
+  },
+  "evidence_separation": {
+    "historical_actor_annotations": [],
+    "historical_actor_mentions": [],
+    "narrator_editor_annotations": [],
+    "narrator_editor_mentions": [],
+    "unclassified_mentions": []
+  },
+  "exact_mentions": [],
+  "generation_notes": "Keep historical Mormon evidence separate from narrator/editor evidence.",
+  "group_occurrences": [],
+  "pm_questions": [
+    "Which Mormon mentions refer to the narrator/editor compiling the record?",
+    "Which Mormon mentions refer to the historical Nephite leader and general?",
+    "Should narrator/editor annotations remain separate from historical-actor Event participation?",
+    "Which 005C participation proposals should be withheld pending narrator/historical separation?"
+  ],
+  "reynolds_evidence": [],
+  "scripture_evidence": [],
+  "scripture_locators_requested": [
+    "Words of Mormon 1:1-11",
+    "3 Nephi 5:8-20",
+    "Mormon 1:1-5",
+    "Mormon 6:6"
+  ],
+  "title": "Mormon \u2014 narrator/editor vs historical actor",
+  "unresolved_evidence_references": [
+    {
+      "reason": "registry_unavailable",
+      "reference": "/workspace/production/entities/people.json",
+      "type": "people_registry"
+    },
+    {
+      "reason": "no_matching_passages_or_corpus_missing",
+      "reference": "Mormon",
+      "type": "reynolds_corpus"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "3 Nephi 5:8-20",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Mormon 1:1-5",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Mormon 6:6",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Words of Mormon 1:1-11",
+      "type": "verse_locator"
+    }
+  ]
+}

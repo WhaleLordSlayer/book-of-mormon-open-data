@@ -1,0 +1,89 @@
+{
+  "005c_proposals": [],
+  "005d_findings_advisory": [],
+  "affected_release_goals": [
+    "explorer-group-ontology",
+    "conceptual-groups"
+  ],
+  "annotations": [],
+  "canonical_display_names": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "canonical_entity_ids": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "chronology_facts": [],
+  "contradictions_and_tensions": [
+    {
+      "description": "Requested scripture ranges not available in frozen corpus loader.",
+      "tension_id": "scripture-corpus-gap"
+    }
+  ],
+  "current_canonical_state": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "current_relationships": [],
+  "dossier_id": "house-of-israel-joseph-conceptual",
+  "earlier_forensic_findings": [],
+  "evidence_resolution": {
+    "resolved": 0,
+    "total_references": 5,
+    "unresolved": 5,
+    "unresolved_by_type": {
+      "groups_registry": 1,
+      "reynolds_corpus": 1,
+      "verse_locator": 3
+    }
+  },
+  "exact_mentions": [],
+  "generation_notes": "Do not make theological judgments.",
+  "group_occurrences": [],
+  "pm_questions": [
+    "Which conceptual Group labels are operational vs genealogical metaphor?",
+    "Which 005C military/political proposals inappropriately attach to conceptual Groups?"
+  ],
+  "reynolds_evidence": [],
+  "scripture_evidence": [],
+  "scripture_locators_requested": [
+    "1 Nephi 15:12-14",
+    "3 Nephi 20:25-27",
+    "2 Nephi 3:3-5"
+  ],
+  "title": "House of Israel / house of Joseph conceptual Groups",
+  "unresolved_evidence_references": [
+    {
+      "reason": "registry_unavailable",
+      "reference": "/workspace/production/entities/groups.json",
+      "type": "groups_registry"
+    },
+    {
+      "reason": "no_matching_passages_or_corpus_missing",
+      "reference": "house of Israel|house of Joseph|seed of Joseph",
+      "type": "reynolds_corpus"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "1 Nephi 15:12-14",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "2 Nephi 3:3-5",
+      "type": "verse_locator"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "3 Nephi 20:25-27",
+      "type": "verse_locator"
+    }
+  ]
+}

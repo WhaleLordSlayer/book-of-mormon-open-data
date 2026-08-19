@@ -1,0 +1,77 @@
+{
+  "005c_proposals": [],
+  "005d_findings_advisory": [],
+  "affected_release_goals": [
+    "explorer-event-boundaries",
+    "jaredite-terminal"
+  ],
+  "annotations": [],
+  "canonical_display_names": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "canonical_entity_ids": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "chronology_facts": [],
+  "contradictions_and_tensions": [
+    {
+      "description": "Requested scripture ranges not available in frozen corpus loader.",
+      "tension_id": "scripture-corpus-gap"
+    }
+  ],
+  "current_canonical_state": {
+    "events": [],
+    "groups": [],
+    "people": [],
+    "places": []
+  },
+  "current_relationships": [],
+  "dossier_id": "coriantumr-shiz-terminal",
+  "earlier_forensic_findings": [],
+  "evidence_resolution": {
+    "resolved": 0,
+    "total_references": 3,
+    "unresolved": 3,
+    "unresolved_by_type": {
+      "people_registry": 1,
+      "reynolds_corpus": 1,
+      "verse_locator": 1
+    }
+  },
+  "exact_mentions": [],
+  "generation_notes": "Preserve phases/days but make the full episode visible.",
+  "group_occurrences": [],
+  "pm_questions": [
+    "Should multi-day terminal conflict phases be separate Events or one Event with phases?",
+    "How should day-by-day progression be represented without losing episode unity?"
+  ],
+  "reynolds_evidence": [],
+  "scripture_evidence": [],
+  "scripture_locators_requested": [
+    "Ether 15:1-34"
+  ],
+  "title": "Coriantumr/Shiz terminal conflict",
+  "unresolved_evidence_references": [
+    {
+      "reason": "registry_unavailable",
+      "reference": "/workspace/production/entities/people.json",
+      "type": "people_registry"
+    },
+    {
+      "reason": "no_matching_passages_or_corpus_missing",
+      "reference": "Coriantumr|Shiz",
+      "type": "reynolds_corpus"
+    },
+    {
+      "reason": "not_in_corpus",
+      "reference": "Ether 15:1-34",
+      "type": "verse_locator"
+    }
+  ]
+}

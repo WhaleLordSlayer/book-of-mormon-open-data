@@ -1,0 +1,12 @@
+{
+  "deferred_edge_case_candidates": [
+    {
+      "candidate_id": "samuel-lamanite-prophet-vs-lamanite-group",
+      "reason": "Potential Person/Group label collision; surfaced during spec review, out of EVID-001A scope."
+    },
+    {
+      "candidate_id": "brother-of-jared-name-identity",
+      "reason": "Name vs title ambiguity; requires separate adjudication pass."
+    }
+  ]
+}

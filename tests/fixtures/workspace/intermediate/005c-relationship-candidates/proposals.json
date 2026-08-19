@@ -1,0 +1,23 @@
+[
+  {
+    "subject_id": "person-mormon-historical",
+    "object_id": "event-cumorah-battle",
+    "predicate": "participated_in",
+    "proposal_id": "005c-prop-001",
+    "evidence_id": "ev-mormon-001"
+  },
+  {
+    "subject_id": "event-cumorah-battle",
+    "object_id": "place-cumorah",
+    "predicate": "at",
+    "proposal_id": "005c-prop-002",
+    "evidence_id": "ev-cumorah-001"
+  },
+  {
+    "subject_id": "event-cumorah-battle",
+    "object_id": "place-cumorah",
+    "predicate": "at",
+    "proposal_id": "005c-prop-003",
+    "evidence_id": "ev-cumorah-002"
+  }
+]
